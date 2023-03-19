@@ -10,12 +10,14 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		//Launch 10 threads that make the operation with a different number
 		for (int i=1; i<=10; i++){
 			Calculator calculator=new Calculator(i);
 			Thread thread=new Thread(calculator);
-			thread.start(); 
+			thread.start();
 		}
+
+
+		System.out.println("Finalizado");
 	}
 }

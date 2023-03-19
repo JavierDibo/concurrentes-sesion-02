@@ -72,10 +72,10 @@ task.interrupt();
   
 ## Preguntas
 
--   ¿El tiempo de ejecución siempre será de 5 segundos?    
--   ¿Qué pasa si se solicita la interrupción cuando se está calculando si un número es primo?
--   ¿Siempre se atiende la solicitud de interrupción?
--   ¿Fallará la solicitud de interrupción?
+-   ¿El tiempo de ejecución siempre será de 5 segundos? -- Si, mas o menos    
+-   ¿Qué pasa si se solicita la interrupción cuando se está calculando si un número es primo? -- No calcula el siguiente
+-   ¿Siempre se atiende la solicitud de interrupción? -- Si
+-   ¿Fallará la solicitud de interrupción? -- No
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc0ODE0NjUwMiw1NDExNzg2MTZdfQ==
 -->

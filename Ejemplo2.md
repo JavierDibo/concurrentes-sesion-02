@@ -112,10 +112,10 @@ while (!finish) {
 
 ## Preguntas
 
--   ¿Si ejecutamos varias veces el programa tiene la misma salida?    
--   ¿Se ejecutan los hilos en el orden en que fueron creados?
--   ¿Se ejecuta cada hilo hasta que completa su trabajo?
--   ¿Termina la ejecución del método `main(.)`?
+-   ¿Si ejecutamos varias veces el programa tiene la misma salida? -- No    
+-   ¿Se ejecutan los hilos en el orden en que fueron creados? -- No
+-   ¿Se ejecuta cada hilo hasta que completa su trabajo? -- No
+-   ¿Termina la ejecución del método `main(.)`? -- Si
 
 
 [estadoHilo]: https://gitlab.com/ssccdd/guionsesion2/raw/master/img/estadoHilo.jpg "Estados de un Hilo en Java"

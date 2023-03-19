@@ -75,13 +75,13 @@ public class Main {
 
 ## Preguntas
 
- - ¿Si ejecutamos varias veces el programa tiene la misma salida?
+ - ¿Si ejecutamos varias veces el programa tiene la misma salida? -- No
     
--  ¿Se ejecutan los hilos en el orden en que fueron creados?
+-  ¿Se ejecutan los hilos en el orden en que fueron creados? -- No
     
--  ¿Se ejecuta cada hilo hasta que completa su trabajo?
+-  ¿Se ejecuta cada hilo hasta que completa su trabajo? -- No
 
-- ¿Termina la ejecución del método `main(.)`?
+- ¿Termina la ejecución del método `main(.)`? -- Si
 
 
 ---
